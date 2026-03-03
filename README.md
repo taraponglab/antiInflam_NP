@@ -11,6 +11,9 @@
 
 Source codes and dataset is available in this repository.
 
+The CAIP web server for anti-inflammatory activity prediction is available at:
+https://caip-predictor.streamlit.app/
+
 #### Package version
 Rdkit: v.2024.9.4; Scikit-learn: v1.5.0; Tensorflow: v2.17.0; Numpy: v.1.26.4.
 
