@@ -11,7 +11,7 @@
 
 Source codes and dataset is available in this repository.
 
-The CAIP web server for anti-inflammatory activity prediction is available at:
+**The CAIP web server** for anti-inflammatory activity prediction is available at:
 https://caip-predictor.streamlit.app/
 
 #### Package version
