@@ -9,7 +9,7 @@
 
 **Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
 
-Source codes and dataset is available in this repository.
+Source codes and supplementary information is available in this repository.
 
 **The CAIP web server** for anti-inflammatory activity prediction is available at:
 https://caip-predictor.streamlit.app/
