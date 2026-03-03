@@ -19,7 +19,7 @@ Rdkit: v.2024.9.4; Scikit-learn: v1.5.0; Tensorflow: v2.17.0; Numpy: v.1.26.4.
 
 #### License
 
-Copyright (c) [2025] [Dr. Tarapong Srisongkram]
+Copyright (c) [2026] [Dr. Tarapong Srisongkram]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
