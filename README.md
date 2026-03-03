@@ -1,5 +1,5 @@
 # A Multi-Stage Computational Framework for Early Prioritization of Natural Anti-Inflammatory Candidates from Diverse Chemical Space
-![Abstract Graphic](Graphic.png)
+![Abstract Graphic](Graphic2.png)
 
 #### Huynh Anh Duy*, Tarapong Srisongkram**
 
